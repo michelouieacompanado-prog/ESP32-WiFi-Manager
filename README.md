@@ -1,8 +1,11 @@
 # Laboratory Activity 9: ESP32 Wi-Fi Manager (Individual)
 
-**Name:** <your full name>
+**Name:** Miche Louie B. Acompañado
+
 **Assigned number:** 2022-3303
+
 **Course:** BCA188
+
 **Setup network name:** `BCA188-ESP32-2022-3303`
 
 ---
